@@ -21,7 +21,7 @@ export default function MobileNav() {
         </SheetTrigger>
         <SheetContent className="bg-white md:hidden">
           <Image
-            src="/assets/imges/evently-logo.png"
+            src="/assets/images/evently-logo.png"
             alt="logo"
             width={128}
             height={38}

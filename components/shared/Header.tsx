@@ -12,7 +12,7 @@ export default function Header() {
       <div className="wrapper  flex items-center justify-between">
         <Link href="/" className="w-36">
           <Image
-            src="/assets/imges/evently-logo.png"
+            src="/assets/images/evently-logo.png"
             alt="logo"
             width={128}
             height={38}
